@@ -1,0 +1,13 @@
+
+data,produto,categoria,quantidade,preco_unitario
+2026-01-05,Notebook,Eletronicos,2,3500.00
+2026-01-08,Mouse,Acessorios,10,80.00
+2026-01-12,Teclado,Acessorios,5,150.00
+2026-02-03,Monitor,Eletronicos,3,1200.00
+2026-02-10,Notebook,Eletronicos,1,3500.00
+2026-02-15,Mouse,Acessorios,15,80.00
+2026-03-02,Teclado,Acessorios,8,150.00
+2026-03-10,Monitor,Eletronicos,4,1200.00
+2026-03-18,Notebook,Eletronicos,2,3500.00
+2026-03-25,Mouse,Acessorios,20,80.00
+
